@@ -1,1 +1,1 @@
-# SEI-Relativity-Info
+# SEI-Relativity
